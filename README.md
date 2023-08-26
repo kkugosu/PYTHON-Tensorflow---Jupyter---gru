@@ -1,3 +1,7 @@
+
+[![GitHub](https://img.shields.io/github/license/RubixML/RubixML)](https://github.com/RubixML/ML/blob/master/LICENSE.md)
+
+
 # gru_tensorflow
 
 gru 자체를 이해하기위해 tensorflow를 활용하여 노드 하나하나 직접 구현해보고 
