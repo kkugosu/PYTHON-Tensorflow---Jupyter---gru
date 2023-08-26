@@ -2,10 +2,10 @@
 [![GitHub](https://img.shields.io/github/license/RubixML/RubixML)](https://github.com/RubixML/ML/blob/master/LICENSE.md)
 
 
-# gru_tensorflow
+# Gated Recurrent Unit (GRU) with TensorFlow
 
-gru 자체를 이해하기위해 tensorflow를 활용하여 노드 하나하나 직접 구현해보고 
-gradiant 계산, 그리고 error가 줄어드는걸 확인하는 시간이 되었습니다.
-텐서플로가 처음이라 코드가 많이 미숙하지만
-(굳이 계속 비동기식으로 동작하는 변수를 session에서 실행시키려 했다는점??)
-자세한건 피피티에 설명이 잘 되어있습니다.
+<img width="681" alt="image" src="https://github.com/kkugosu/PYTHON-Tensorflow---Jupyter---gru/assets/24292848/1a81dafa-9329-46e0-8c6e-f2c1d1bfebe9">
+
+이 프로젝트에서는 TensorFlow를 활용하여 Gated Recurrent Unit (GRU)을 깊게 이해하고자 노드를 직접 구현해 보았습니다. 이 과정에서 gradient 계산 및 error 감소를 체계적으로 확인하였습니다. 
+
+초기의 TensorFlow 활용 경험이 부족하여, 특히 세션에서 비동기식으로 동작하는 변수를 실행하는 데 있어 몇 가지 어려움을 겪었습니다. 그러나 이러한 세부 사항과 함께 GRU의 원리 및 구현에 대한 보다 자세한 설명은 제공된 PPT에서 확인하실 수 있습니다.
